@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shikharagraha10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shikharagraha10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shikhar-agrahari-59274718b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shikhar-agrahari-59274718b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://myrepos.stackroute.niit.com/811864_shikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://myrepos.stackroute.niit.com/811864_shikhar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucibdd5xtpz4j-udhyya0ghw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucibdd5xtpz4j-udhyya0ghw" height="30" width="40" /></a>
+<a href="shikhar-agrahari-59274718b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shikhar-agrahari-59274718b/" height="30" width="40" /></a>
+<a href="811864_shikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://myrepos.stackroute.niit.com/811864_shikhar" height="30" width="40" /></a>
+<a href="@shikharagrahari7961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucibdd5xtpz4j-udhyya0ghw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
