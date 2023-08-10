@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **java full stack developer**
 
-- 💬 Ask me about **angular|spring|core-java|my-sql**
+- 💬 Ask me about **angular | spring | core-java | my-sql**
 
 - 📫 How to reach me **shikharagrahari89@gmail.com**
 
